@@ -12,6 +12,7 @@ int main() {
     copy.Read(fileName);
     copy.Export("image.bmp");
     copy.ExportHighContrast("contrast.bmp");
+    copy.ExportWhite("hollow.bmp");
 
     return 0;
 

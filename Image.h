@@ -25,6 +25,7 @@ public:
     Color GetColor(int x , int y) const;
     void Export(const char *path) const;
     void ExportHighContrast(const char *path) const;
+    void ExportWhite(const char *path) const;
     void Read(std::string path);
 
 private:
