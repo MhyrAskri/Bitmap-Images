@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="Bitmap" targetName="Bitmap" />
@@ -11,10 +29,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c57f340f-fd69-472f-83c1-c7139a9b65d4" name="Default Changelist" comment="">
+    <list default="true" id="c57f340f-fd69-472f-83c1-c7139a9b65d4" name="Default Changelist" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Image.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Image.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Image.h" beforeDir="false" afterPath="$PROJECT_DIR$/Image.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Bitmap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Bitmap.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/Image.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/Image.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Bitmap.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/contrast.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/contrast.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/hollow.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/hollow.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/image.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/image.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +69,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bcz\CLionProjects\Bitmap\cmake-build-debug" />
       <recent name="C:\Users\bcz\CLionProjects\Ashkan\cmake-build-debug" />
     </key>
   </component>
@@ -76,12 +103,48 @@
       <workItem from="1643501634617" duration="1352000" />
       <workItem from="1643505520871" duration="2170000" />
       <workItem from="1643557639042" duration="1669000" />
-      <workItem from="1643664881185" duration="37000" />
+      <workItem from="1643664881185" duration="921000" />
+      <workItem from="1643714514784" duration="1184000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="second commit">
+      <created>1643664989301</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1643664989301</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۲" summary="second commit">
+      <created>1643665132266</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1643665132266</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۳" summary="second commit">
+      <created>1643665175521</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1643665175521</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643483400915">
@@ -92,26 +155,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="204" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1643485447370" />
-    <state width="1863" height="204" key="GridCell.Tab.0.bottom" timestamp="1643507708046">
+    <state width="1863" height="206" key="GridCell.Tab.0.bottom" timestamp="1643715672556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643507708046" />
-    <state width="1863" height="204" key="GridCell.Tab.0.center" timestamp="1643507708046">
+    <state width="1863" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643715672556" />
+    <state width="1863" height="206" key="GridCell.Tab.0.center" timestamp="1643715672556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643507708046" />
-    <state width="1863" height="204" key="GridCell.Tab.0.left" timestamp="1643507708046">
+    <state width="1863" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643715672556" />
+    <state width="1863" height="206" key="GridCell.Tab.0.left" timestamp="1643715672556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643507708046" />
-    <state width="1863" height="204" key="GridCell.Tab.0.right" timestamp="1643507708046">
+    <state width="1863" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643715672556" />
+    <state width="1863" height="206" key="GridCell.Tab.0.right" timestamp="1643715672556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1863" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643507708046" />
+    <state width="1863" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643715672556" />
     <state x="335" y="76" key="SettingsEditor" timestamp="1643558906245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="335" y="76" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1643558906245" />
+    <state x="451" y="186" key="Vcs.Push.Dialog.v2" timestamp="1643665176752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="186" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643665176752" />
     <state x="59" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1643485217994">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

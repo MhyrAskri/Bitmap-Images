@@ -13,6 +13,7 @@ int main() {
     copy.Export("image.bmp");
     copy.ExportHighContrast("contrast.bmp");
     copy.ExportWhite("hollow.bmp");
+    copy.ExportRotate("rotate.bmp");
 
     return 0;
 
